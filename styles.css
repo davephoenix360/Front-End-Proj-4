@@ -7,6 +7,9 @@
     width: 100%;
     overflow: hidden;
 }
+.arrow{
+    margin-left: 5%;
+}
 .mobile{
     display: none;
 }
@@ -41,7 +44,7 @@
     background-color: transparent;
 }
 .userstat{
-    margin-top: 3%;
+    margin-top: 4%;
 }
 .login{
     color: white;
